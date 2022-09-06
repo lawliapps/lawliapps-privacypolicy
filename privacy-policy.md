@@ -44,7 +44,7 @@ I value your trust in providing us your Personal Information, thus we are strivi
 
 **Links to Other Sites**
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+The Service itself does not contain links to other sites. The only links that could be opened are from the ads that are provided by Google AdMob. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 **Children’s Privacy**
 
