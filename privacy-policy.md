@@ -40,7 +40,7 @@ I want to inform users of this Service that these third parties have access to t
 
 **Security**
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+We do not collect any personal information from the users. The only information that are been gathered is from the above-mentioned third party companies for ad-specific reasons.
 
 **Links to Other Sites**
 
